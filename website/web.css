@@ -1,0 +1,44 @@
+div ul{
+    background-color: red;
+    color: white;
+    height:50px;
+    margin:0;
+    padding: 0 ;
+}
+
+#nav li{
+    list-style: none;
+    float: left;
+    text-align: center;
+    padding: 15px;
+    text-transform: uppercase;
+
+}
+
+ul#nav li#navright{
+    float: right;
+}
+
+div#row{
+    background-color: white;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15);
+}
+
+img{
+    width:160px;
+    height: 160px;
+    box-shadow: rgba(0,0,0,.15);
+    margin: 25px;
+}
+
+a{
+    height:90px;
+    width:90px;
+    box-shadow: 0,0,0,white;
+}
+
+#id1{
+    height:100px;
+    width:75px;
+
+}
